@@ -8,7 +8,7 @@ Karsajobs read configuration from environment variable
 | ENV        |      Description                       |
 |------------|:---------------------------------------|
 | APP_PORT   | run karsajobs in specific port         |
-| MONGO_URL  | mongdb://<username>:<password>/<host>  |
+| MONGO_URL  | mongdb://username:password:host:27017  |
 
 
   
